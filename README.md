@@ -9,22 +9,6 @@ Modelo de análisis de sentimiento sobre reseñas de productos de comercio elect
 
 ---
 
-## Tabla de contenidos
-
-- [Descripción](#descripción)
-- [Ficha del proyecto](#ficha-del-proyecto)
-- [Datos](#datos)
-- [Estructura del repositorio](#estructura-del-repositorio)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Metodología](#metodología)
-- [Consideraciones metodológicas](#consideraciones-metodológicas)
-- [Equipo](#equipo)
-- [Referencias](#referencias)
-- [Licencia](#licencia)
-
----
-
 ## Descripción
 
 Este repositorio contiene el desarrollo completo de un *pipeline* de procesamiento de lenguaje natural para clasificar la polaridad del sentimiento expresado en reseñas de productos publicadas por usuarios de Amazon.
